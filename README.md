@@ -11,7 +11,7 @@ Benvenuti nella repository ufficiale contenente il materiale multimediale, i que
 
 ---
 
-## 📁 Indice del Materiale
+## 📁 Indice del materiale
 
 ### 🎬 1. Esperienza in VR
 * 🎥 **Video dell'esperienza VR:** [Clicca qui per guardare il video completo](https://www.youtube.com/watch?v=INSERISCI_TUO_LINK_YOUTUBE)  
