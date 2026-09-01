@@ -1,6 +1,6 @@
 # tesi-esperienza-vr
 Materiale integrativo per la tesi di laurea sull'esperienza VR.
-# 🎓 Materiale Integrativo di Tesi
+# 🎓 Materiale integrativo di Tesi
 
 **Titolo Tesi:** Inserisci qui il Titolo della tua Tesi  
 **Candidato/a:** Margherita Russo e Francesca Sfasciamuro 
@@ -20,13 +20,13 @@ Benvenuti nella repository ufficiale contenente il materiale multimediale, i que
 ---
 
 ### 📊 2. Risultati e grafici interattivi
-* **Dashboard dei risultati:** [Clicca qui per esplorare il grafico interattivo](https://public.flourish.studio/visualisation/30056504/)
-* **Dashboard dei risultati:** [Clicca qui per esplorare il grafico interattivo](https://htmlpreview.github.io/?https://raw.githubusercontent.com/francesca1703/tesi-esperienza-vr/refs/heads/main/circular_network_emozioni_colori.html)   
+* **Dashboard emozioni degli studenti:** [Clicca qui per esplorare il grafico interattivo](https://public.flourish.studio/visualisation/30056504/)
+* **Dashboard associazione emozioni-colori:** [Clicca qui per esplorare il grafico interattivo](https://htmlpreview.github.io/?https://raw.githubusercontent.com/francesca1703/tesi-esperienza-vr/refs/heads/main/circular_network_emozioni_colori.html)   
   *(Visualizzazione dinamica dei dati raccolti tramite i questionari)*
 
 ---
 
-### 📄 3. Documentazione e Questionari (PDF)
+### 📄 3. Poster e Questionari
 I seguenti file sono scaricabili direttamente da questa repository:
 
 * **Poster esperienza VR:** [Visualizza/Scarica Locandina (PDF)](./POSTER%20EMOZIONI.pdf)
@@ -36,7 +36,7 @@ I seguenti file sono scaricabili direttamente da questa repository:
 ---
 
 ### 📈 4. Dataset
-* 📊 **File Excel dati:** [Scarica il file `.xlsx`](./Data_questionario.xlsx)  
+* 📊 **Dati file Excel:** [Scarica il file `.xlsx`](./Data_questionario.xlsx)  
   *(Contiene tutte le risposte dei partecipanti alle fasi di testing pre e post esperienza)*
 
 ---
