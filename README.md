@@ -29,7 +29,7 @@ Benvenuti nella repository ufficiale contenente il materiale multimediale, i que
 ### 📄 3. Documentazione e Questionari (PDF)
 I seguenti file sono scaricabili direttamente da questa repository:
 
-* **Poster esperienza VR:** [Visualizza/Scarica Locandina (PDF)](./POSTER%20EMOZIONE.pdf)
+* **Poster esperienza VR:** [Visualizza/Scarica Locandina (PDF)](./POSTER%20EMOZIONI.pdf)
 * 📋 **Questionario Pre-Progetto:** [Visualizza/Scarica Questionario Pre-Progetto](https://docs.google.com/forms/d/e/1FAIpQLSdouwSCwXTCpsg1F7onMFlqHWz1UkLwq22xajB2v2U4fGDq5Q/viewform?usp=pp_url)
 * 📝 **Questionario Pre esperienza VR:** [Visualizza/Scarica Questionario Pre VR](https://docs.google.com/forms/d/e/1FAIpQLSelCNyFOc7Tr7dZadkIgMiIQ-enqiGm6gCs-iRhJ3yd8DlQJw/viewform?usp=pp_url&entry.1706324057=4)
 * 📝 ***Questionario Post esperienza VR:*** [Visualizza/Scarica Questionario Post VR](https://docs.google.com/forms/d/e/1FAIpQLScHUTDvU6wDF2AOA72k0l0gcuW2-3Y47FbCamkYrVkno4rsXA/viewform?usp=pp_url)
