@@ -21,7 +21,7 @@ Benvenuti nella repository ufficiale contenente il materiale multimediale, i que
 
 ### 📊 2. Risultati e grafici interattivi
 * **Dashboard dei risultati:** [Clicca qui per esplorare il grafico interattivo](https://public.flourish.studio/visualisation/30056504/)
-* **Dashboard dei risultati:** [Clicca qui per esplorare il grafico interattivo](./circular_network_emozioni_colori.html)   
+* **Dashboard dei risultati:** [Clicca qui per esplorare il grafico interattivo](https://htmlpreview.github.io/?https://raw.githubusercontent.com/francesca1703/tesi-esperienza-vr/refs/heads/main/circular_network_emozioni_colori.html)   
   *(Visualizzazione dinamica dei dati raccolti tramite i questionari)*
 
 ---
