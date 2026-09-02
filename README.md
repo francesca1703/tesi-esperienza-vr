@@ -1,9 +1,7 @@
-# tesi-esperienza-vr
-Materiale integrativo per la tesi di laurea sull'esperienza VR.
 # 🎓 Materiale integrativo di Tesi
 
-**Titolo Tesi:** Inserisci qui il Titolo della tua Tesi  
-**Candidato/a:** Margherita Russo e Francesca Sfasciamuro 
+**Titolo Tesi:** 
+**Candidati:** Margherita Russo e Francesca Sfasciamuro 
 **Corso di Laurea:** Industrial Design  
 **Anno Accademico:** 2025/2026
 
@@ -41,4 +39,4 @@ I seguenti file sono scaricabili direttamente da questa repository:
 
 ---
 
-> ℹ️ *Nota sulla privacy: Tutti i dati raccolti nei file presenti in questa repository sono stati resi completamente anonimi nel rispetto delle normative sulla tutela della privacy.*
+>  *Nota sulla privacy: Tutti i dati raccolti nei file presenti in questa repository sono stati resi completamente anonimi nel rispetto delle normative sulla tutela della privacy.*
